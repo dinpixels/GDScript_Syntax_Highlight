@@ -18,3 +18,8 @@ Include these in the head tags:
 ```
 
 Then you can use the css and highlightjs script in this repo.
+
+---
+
+### Preview
+![preview.png](https://raw.githubusercontent.com/MumuNiMochii/GDScript-Highlight/master/preview.png)
