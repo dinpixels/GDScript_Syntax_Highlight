@@ -1,5 +1,5 @@
-# GDSCript Highlight
-This is a modification of [GDScript highlight.js](https://github.com/highlightjs/highlightjs-gdscript).
+# GDSCript Syntax Highlight
+This is a mod of [GDScript highlight.js](https://github.com/highlightjs/highlightjs-gdscript) by [Khairul Hidayat](https://github.com/khairul169), [Nelson Sylvest*r Fritsch](https://github.com/form-follows-function), and [Calinou](https://github.com/Calinou).
 
 This version supports syntax highlighting with these formats:
 
@@ -10,7 +10,9 @@ This version supports syntax highlighting with these formats:
 ---
 
 ### Usage
-Include these in the head tags:
+Used to highlight GDScript syntax on HTML.
+
+To use it, include these first in the head tags:
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.0/build/styles/default.min.css">
